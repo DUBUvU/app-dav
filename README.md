@@ -1,5 +1,6 @@
 # app-dev
-My first repository
+*My first repository*
+**HERE ARE MY FAVORATE SERIES AND MOVIES**
 1. BREAKING BAD
 2. DEADPOET SOCIETY
 3. WINDBREAKER
